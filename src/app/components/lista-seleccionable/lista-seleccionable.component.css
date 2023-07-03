@@ -1,0 +1,9 @@
+.activo{
+    background-color: rgb(172, 89, 240);
+    color: black;
+}
+
+.inactivo{
+    background-color: rgb(180, 53, 53);
+    color: white;
+}
